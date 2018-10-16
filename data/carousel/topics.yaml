@@ -1,0 +1,9 @@
+weight: 3
+title: "Fokus auf Microsoft IT Pro Themen"
+description: >
+  <ul class="list-style-none">
+    <li>Azure Cloud</li>
+    <li>Datacenter Management</li>
+    <li>Workplace Management</li>
+  </ul>
+image: "img/microsoft-icon.png"
